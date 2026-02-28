@@ -1,1 +1,1 @@
-Contains the assignment of team number 4.
+Contains the final document and the demo of the whole project scenarios.
