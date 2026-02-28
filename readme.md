@@ -1,1 +1,1 @@
-Contains the documentation about the ideation phase of the project.
+Contains the information about the planning and designing of the project.
