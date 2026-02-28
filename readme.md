@@ -1,1 +1,1 @@
-Contains the testing performance file.
+Contains the documentation about the ideation phase of the project.
