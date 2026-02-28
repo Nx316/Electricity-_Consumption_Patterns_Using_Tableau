@@ -1,1 +1,1 @@
-Contains all the important files such as the final  dataset, dashboard, visualization and reports.
+Contains the information about the requitments of the project and the analysis of it.
